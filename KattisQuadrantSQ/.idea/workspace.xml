@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b50e5704-a32f-4e4f-85ef-d1418b4a8632" name="Default Changelist" comment="" />
+    <list default="true" id="df334612-5015-4b15-b002-d62249063247" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1aJqRv4totDR62d5aXDKUGkEYau" />
+  <component name="ProjectId" id="1cBJcfpZbceHPJ1zH5OGQFCC0eE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,11 +16,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="kattisQ2" />
+      <module name="KattisQuadrantSQ" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -39,13 +40,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b50e5704-a32f-4e4f-85ef-d1418b4a8632" name="Default Changelist" comment="" />
-      <created>1586464039339</created>
+      <changelist id="df334612-5015-4b15-b002-d62249063247" name="Default Changelist" comment="" />
+      <created>1589996133945</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586464039339</updated>
-      <workItem from="1586464043848" duration="4407000" />
-      <workItem from="1586575455552" duration="141000" />
+      <updated>1589996133945</updated>
+      <workItem from="1589996135696" duration="104000" />
     </task>
     <servers />
   </component>
@@ -53,25 +53,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1586471238112">
+    <state width="1493" height="131" key="GridCell.Tab.0.bottom" timestamp="1589996238756">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586471238112" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1586471238111">
+    <state width="1493" height="131" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589996238756" />
+    <state width="1493" height="131" key="GridCell.Tab.0.center" timestamp="1589996238756">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586471238111" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1586471238110">
+    <state width="1493" height="131" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589996238756" />
+    <state width="1493" height="131" key="GridCell.Tab.0.left" timestamp="1589996238756">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586471238110" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1586471238111">
+    <state width="1493" height="131" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589996238756" />
+    <state width="1493" height="131" key="GridCell.Tab.0.right" timestamp="1589996238756">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586471238111" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586575454488">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586575454488" />
+    <state width="1493" height="131" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589996238756" />
   </component>
 </project>

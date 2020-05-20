@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kattisQ2.iml" filepath="$PROJECT_DIR$/kattisQ2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KattisQuadrantSQ.iml" filepath="$PROJECT_DIR$/KattisQuadrantSQ.iml" />
     </modules>
   </component>
 </project>
